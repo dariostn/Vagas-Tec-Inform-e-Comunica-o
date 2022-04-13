@@ -1,0 +1,25 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Tecnico em redes",
+      "foto": "foto10.jpg",
+      "descricao": "Administrar a infraestrutura de rede",
+      "salario": 6000
+    },
+    {
+      "id": 2,
+      "nome": "Analista de sistemas",
+      "foto": "foto20.jpg",
+      "descricao": "Desenvolve e da manutenção em sistemas",
+      "salario": 7200
+    },
+    {
+      "id": 3,
+      "nome": "Administrador DBA",
+      "foto": "foto30.jpg",
+      "descricao": "Administra e configura o Banco de Dadosd",
+      "salario": 9000
+    }
+  ]
+}
